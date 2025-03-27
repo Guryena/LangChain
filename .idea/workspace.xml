@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb980b7-2fd5-4065-b592-d9349a9771e9" name="Changes" comment="" />
+    <list default="true" id="dbb980b7-2fd5-4065-b592-d9349a9771e9" name="Changes" comment="Study" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,12 +43,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Python.Study01_langchain.executor&quot;: &quot;Run&quot;,
     &quot;Python.Study02.executor&quot;: &quot;Run&quot;,
     &quot;Python.Study03_ChatOpenAI.executor&quot;: &quot;Run&quot;,
     &quot;Python.Study04_LCEL.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Volumes/설치/DA/Pycharm/workspace/Langchain&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
@@ -238,11 +240,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743051327294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Study">
+      <option name="closed" value="true" />
+      <created>1743052222416</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743052222416</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Langchain" />
-    <option name="LAST_COMMIT_MESSAGE" value="Langchain" />
+    <MESSAGE value="Study" />
+    <option name="LAST_COMMIT_MESSAGE" value="Study" />
   </component>
 </project>
